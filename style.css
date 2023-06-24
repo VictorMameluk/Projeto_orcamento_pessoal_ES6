@@ -1,0 +1,13 @@
+body{
+	margin: 0;
+	background: url(assets/fundo.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.navbar-dark .navbar-toggler{
+	border-color: rgba(255, 255, 255, 1);
+	color: rgba(255, 255, 255, 1);
+}
+
